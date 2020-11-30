@@ -1,0 +1,4 @@
+server/.git
+server/config/dev.js
+server/config/production.js
+
